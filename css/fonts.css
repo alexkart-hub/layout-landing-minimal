@@ -1,0 +1,28 @@
+/* Код для подключения шрифта в /css/stylename.css */
+@font-face {
+    font-family: "MyriadProRegular";
+    src: url("../fonts/MyriadProRegular.eot");
+    src: url("../fonts/MyriadProRegular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MyriadProRegular.woff") format("woff"),
+    url("../fonts/MyriadProRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "MyriadProBold";
+    src: url("../fonts/MyriadProBold.eot");
+    src: url("../fonts/MyriadProBold.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/MyriadProBold.woff") format("woff"),
+    url("../fonts/MyriadProBold.otf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+@font-face {
+    font-family: "StRyde";
+    src: url("../fonts/StRyde-Regular.eot");
+    src: url("../fonts/StRyde-Regular.eot?#iefix")format("embedded-opentype"),
+    url("../fonts/StRyde-Regular.woff") format("woff"),
+    url("../fonts/StRyde-Regular.otf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
